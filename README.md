@@ -1,4 +1,7 @@
 life
 ====
 
-[Incomplete](https://github.com/sarenji/life/issues)
+## [Incomplete](https://github.com/sarenji/life/issues)
+
+
+## [Complete](https://github.com/sarenji/life/issues)
